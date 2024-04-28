@@ -25,6 +25,9 @@ and execute the Project.
 # INSTALL THE PACKAGES
 
 Before run the project, please install the packages with : npm install into repo folder into terminal.
+Please make sure the library: "node-fetch" is installed with the second version: -> npm install node-fetch@2 --save-dev
+Because if the first version is installed so it won't support my solution.
+
 
 # RUN THE SCRIPT.
 
