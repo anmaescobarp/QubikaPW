@@ -26,7 +26,7 @@ and execute the Project.
 
 Before run the project, please install the packages with : npm install into repo folder into terminal.
 
-# RUN THE SCRIP.
+# RUN THE SCRIPT.
 
 Please go to repo solution and then run the project with this command: 
 
